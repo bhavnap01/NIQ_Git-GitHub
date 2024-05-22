@@ -1,0 +1,3 @@
+database.tmp
+*.properties
+/private/demo2.tmp
